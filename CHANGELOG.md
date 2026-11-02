@@ -21,3 +21,8 @@ The project follows small, reviewable checkpoints. Internal assessment notes and
 - Added a minimal React, Vite, and TypeScript application.
 - Added a responsive preparation screen without introducing optional frameworks or services.
 
+### Visual system
+
+- Replaced the gradient landing treatment with a flat banana-yellow, leaf-green, and carbon-black palette.
+- Introduced a compact editorial layout inspired by classic WordPress blogs, with a masthead, menu, article column, sidebar widgets, and ruled borders.
+
