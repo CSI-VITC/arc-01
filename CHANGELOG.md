@@ -37,3 +37,8 @@ The project follows small, reviewable checkpoints. Internal assessment notes and
 - Added archive desk metadata and download feedback.
 - Adjusted compact-screen shelf placement and archive navigation labels.
 
+### Quality checks
+
+- Added linting, type checking, focused interaction tests, and a GitHub Actions verification workflow.
+- Updated the application toolchain to patched releases after a dependency security review.
+
