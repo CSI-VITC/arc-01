@@ -24,6 +24,17 @@ Findings may be documented through Issues, Discussions, Wiki pages, pull request
 
 The challenge repository is currently being prepared. Setup instructions and contribution guidance will be added before the project opens.
 
+## Run locally
+
+You need Node.js 22 LTS and npm.
+
+```bash
+npm install
+npm run dev
+```
+
+Use `npm run typecheck` to check the TypeScript source and `npm run build` to create a production build.
+
 ## Maintainers
 
 Maintained by the **CSI VIT Chennai Technical Team**.

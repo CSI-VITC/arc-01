@@ -16,3 +16,8 @@ The project follows small, reviewable checkpoints. Internal assessment notes and
 
 - Added the initial candidate-facing identity and challenge overview.
 
+### Application foundation
+
+- Added a minimal React, Vite, and TypeScript application.
+- Added a responsive preparation screen without introducing optional frameworks or services.
+
