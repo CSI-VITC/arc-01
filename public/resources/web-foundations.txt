@@ -1,0 +1,8 @@
+THE LANTERN ARCHIVE
+Web Foundations Field Notes
+
+HTML describes meaning and structure.
+CSS controls presentation and layout.
+JavaScript adds behaviour and state.
+
+Start with a useful document. Add style without hiding meaning. Add behaviour only where it helps a visitor complete a task.

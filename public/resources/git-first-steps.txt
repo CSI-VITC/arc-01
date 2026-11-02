@@ -1,0 +1,11 @@
+THE LANTERN ARCHIVE
+Git First Steps
+
+1. Create a project folder and run: git init
+2. Add a small README that explains the project.
+3. Inspect changes with: git status
+4. Stage only the intended files.
+5. Read the diff before committing.
+6. Use a short commit message that explains why the change exists.
+
+Useful habit: make one understandable change at a time.

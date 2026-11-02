@@ -1,0 +1,8 @@
+THE LANTERN ARCHIVE
+Safer Inputs, Calmer Systems
+
+Treat input as untrusted until it is validated.
+Check shape, length, range, and allowed values.
+Reject unexpected values with a useful message.
+Encode output for its destination.
+Do not place secrets in client-side code.

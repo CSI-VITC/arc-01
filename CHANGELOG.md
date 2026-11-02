@@ -26,3 +26,9 @@ The project follows small, reviewable checkpoints. Internal assessment notes and
 - Replaced the gradient landing treatment with a flat banana-yellow, leaf-green, and carbon-black palette.
 - Introduced a compact editorial layout inspired by classic WordPress blogs, with a masthead, menu, article column, sidebar widgets, and ruled borders.
 
+### Resource catalogue
+
+- Added five beginner-friendly technical guides with safe plain-text downloads.
+- Added searchable and topic-filtered resource listings, detail pages, and predictable missing-page recovery.
+- Added React Router as the only navigation dependency.
+

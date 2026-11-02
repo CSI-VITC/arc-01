@@ -1,0 +1,9 @@
+THE LANTERN ARCHIVE
+The Debugging Compass
+
+Observe the symptom precisely.
+Reduce the problem to the smallest repeatable case.
+Write down one hypothesis.
+Run a check that can disprove it.
+Change one variable at a time.
+Record what you learned.
