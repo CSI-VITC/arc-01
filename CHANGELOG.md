@@ -12,3 +12,7 @@ The project follows small, reviewable checkpoints. Internal assessment notes and
 - Added repository hygiene and line-ending rules.
 - Established public change tracking and a private local ticket ledger.
 
+### Documentation
+
+- Added the initial candidate-facing identity and challenge overview.
+
