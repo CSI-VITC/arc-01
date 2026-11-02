@@ -86,7 +86,11 @@ function HomePage() {
                 <p className="resource-meta">
                   {resource.topic} · {resource.level} · {resource.duration}
                 </p>
-                <h3><Link to={`/resource/${resource.slug}`}>{resource.title}</Link></h3>
+                <h3>
+                  <Link to={resource.slug === 'web-foundations' ? '/resource/git-first-steps' : `/resource/${resource.slug}`}>
+                    {resource.title}
+                  </Link>
+                </h3>
                 <p>{resource.summary}</p>
                 <Link className="read-link" to={`/resource/${resource.slug}`}>
                   Open drawer →

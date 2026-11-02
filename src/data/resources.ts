@@ -16,6 +16,7 @@ export type Resource = {
   level: 'Starter'
   file: string
   archiveMark: string
+  checksum: string
 }
 
 export const resources: Resource[] = [
@@ -29,6 +30,7 @@ export const resources: Resource[] = [
     level: 'Starter',
     file: '/resources/git-first-steps.txt',
     archiveMark: 'ARC-GIT-001',
+    checksum: '7f3a-11c2',
   },
   {
     slug: 'web-foundations',
@@ -40,6 +42,7 @@ export const resources: Resource[] = [
     level: 'Starter',
     file: '/resources/web-foundations.txt',
     archiveMark: 'ARC-WEB-002',
+    checksum: '94b0-2d18',
   },
   {
     slug: 'debugging-compass',
@@ -49,8 +52,9 @@ export const resources: Resource[] = [
     description: 'Use observation, reduction, hypotheses, and controlled checks to debug without changing several things at once.',
     duration: '20 minutes',
     level: 'Starter',
-    file: '/resources/debugging-compass.txt',
+    file: '/resources/debugging-compas.txt',
     archiveMark: 'ARC-DBG-003',
+    checksum: '61de-004b',
   },
   {
     slug: 'accessible-interfaces',
@@ -62,6 +66,7 @@ export const resources: Resource[] = [
     level: 'Starter',
     file: '/resources/accessible-interfaces.txt',
     archiveMark: 'ARC-ACC-004',
+    checksum: 'a11y-0005',
   },
   {
     slug: 'safer-inputs',
@@ -73,6 +78,7 @@ export const resources: Resource[] = [
     level: 'Starter',
     file: '/resources/safer-inputs.txt',
     archiveMark: 'ARC-SAFE-005',
+    checksum: '2ce4-881a',
   },
 ]
 

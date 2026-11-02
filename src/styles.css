@@ -448,7 +448,7 @@ a:focus-visible {
 
 .resource-facts {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   margin: 1.5rem 0;
   border: var(--rule);
 }
@@ -505,6 +505,14 @@ a:focus-visible {
   background: var(--banana-yellow);
 }
 
+.download-notice {
+  margin: 0.75rem 0 0;
+  color: var(--leaf-green);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
 @media (max-width: 680px) {
   .page-background {
     padding-inline: 0;
@@ -554,6 +562,7 @@ a:focus-visible {
 
   .sidebar {
     padding: 1.25rem;
+    grid-row: 1;
   }
 
   .site-footer {

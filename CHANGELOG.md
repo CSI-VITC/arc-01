@@ -32,3 +32,8 @@ The project follows small, reviewable checkpoints. Internal assessment notes and
 - Added searchable and topic-filtered resource listings, detail pages, and predictable missing-page recovery.
 - Added React Router as the only navigation dependency.
 
+### Archive maintenance
+
+- Added archive desk metadata and download feedback.
+- Adjusted compact-screen shelf placement and archive navigation labels.
+

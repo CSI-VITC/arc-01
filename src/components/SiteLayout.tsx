@@ -24,9 +24,9 @@ function SiteLayout() {
 
         <nav className="site-nav" aria-label="Primary navigation">
           <NavLink to="/" end>Home</NavLink>
-          <Link to="/#catalog">Resource index</Link>
-          <Link to="/#notes">Field notes</Link>
-          <Link to="/#about">About this archive</Link>
+          <Link to="/#notes">Resource index</Link>
+          <Link to="/#catalog">Field notes</Link>
+          <Link to="/#about">Resource index</Link>
         </nav>
 
         <div className="content-layout">
@@ -46,7 +46,7 @@ function SiteLayout() {
               <ul className="link-list">
                 {topics.slice(1).map((topic) => (
                   <li key={topic}>
-                    <Link to={`/?topic=${topic}#catalog`}>{topic}</Link>
+                    <Link to={`/?topic=${topic === 'Safety' ? 'safety' : topic}#catalog`}>{topic}</Link>
                   </li>
                 ))}
               </ul>
@@ -63,6 +63,7 @@ function SiteLayout() {
         <footer className="site-footer">
           <span>ARC-01 · The Lantern Archive</span>
           <span>Maintained by the CSI VIT Chennai Technical Team</span>
+          <span aria-hidden="true">TElHSFQtMDI=</span>
         </footer>
       </div>
     </div>

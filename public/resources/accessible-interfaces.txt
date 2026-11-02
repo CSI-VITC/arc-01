@@ -7,3 +7,5 @@ Test every action without a mouse.
 Provide useful alternative text.
 Do not rely on colour alone.
 Write error messages that explain the next step.
+
+Archive desk note: the recorded checksum for this copy is a11y-0004.
