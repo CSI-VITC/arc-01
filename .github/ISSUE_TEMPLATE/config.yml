@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ARC-01 Discussions
+    url: https://github.com/CSI-VITC/arc-01/discussions
+    about: Ask a public question or discuss an early observation.

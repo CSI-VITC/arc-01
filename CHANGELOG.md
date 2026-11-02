@@ -15,6 +15,8 @@ The project follows small, reviewable checkpoints. Internal assessment notes and
 ### Documentation
 
 - Added the initial candidate-facing identity and challenge overview.
+- Added final setup, investigation, submission, contribution, and assessment-use guidance.
+- Added reusable Issue and pull-request templates.
 
 ### Application foundation
 
