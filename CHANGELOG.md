@@ -43,4 +43,6 @@ The project follows small, reviewable checkpoints. Internal assessment notes and
 
 - Added linting, type checking, focused interaction tests, and a GitHub Actions verification workflow.
 - Updated the application toolchain to patched releases after a dependency security review.
+- Declared the supported Node.js and npm runtime used by the candidate guide and CI.
+- Completed the pre-release security, privacy, accessibility-boundary, and repository-leakage review.
 
